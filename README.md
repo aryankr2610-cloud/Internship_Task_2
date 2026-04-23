@@ -1,4 +1,5 @@
-#Business Intelligence & KPI Analysis - Task 2
+# Business Intelligence & KPI Analysis - Task 2
+
 📌 Project Overview
 This repository contains the end-to-end analysis of a multi-table business dataset. The goal of this project was to move beyond basic data cleaning into advanced Data Modeling, SQL Joins, and Business KPI Dashboarding.
 
